@@ -88,8 +88,8 @@ h6 {
 /*---WRAPPER--------------------------------------------------------------------------*/
 
 ._container {
-  max-width: 1046px;
-  padding: 0px 15px;
+  max-width: 1440px;
+  padding: 0px 130px;
   margin: 0px auto;
   -webkit-box-sizing: content-box;
           box-sizing: content-box;
@@ -107,4 +107,9 @@ h6 {
           flex-direction: column;
 }
 
-/*-----------------------------------------------------------------------------------*/
+/*---HEADER--------------------------------------------------------------------------*/
+
+.header__container {
+  height: 153px;
+  background: #ffea29;
+}
