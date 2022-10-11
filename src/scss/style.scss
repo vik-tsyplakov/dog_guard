@@ -45,8 +45,17 @@
   height: 153px;
   background: #ffea29;
 }
+.header__block {
+  display: flex;
+}
 .header__logo {
   display: flex;
   align-items: center;
   padding-top: 29px;
+}
+.header__nav {
+  display: flex;
+  list-style-type: none;
+  margin-top: 56.5px;
+  margin-left: 170px;
 }
