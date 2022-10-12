@@ -57,5 +57,16 @@
   display: flex;
   list-style-type: none;
   margin-top: 56.5px;
-  margin-left: 170px;
+  margin-left: 135px;
+  margin-right: 69px;
+}
+.header__nav li {
+  margin-left: 35px;
+}
+.header__phone {
+  align-items: center;
+  margin-top: 56.5px;
+}
+.phone__link {
+  margin-left: 4px;
 }
