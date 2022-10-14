@@ -1,4 +1,29 @@
 @font-face {
-    font-family: Name;
-    src: url();
+  font-family: "Lato Regular";
+  src: url("/fonts/Lato-Regular.woff2") format("woff2"),
+    url("/fonts/Lato-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Lato Black";
+  src: url("/fonts/Lato-Black.woff2") format("woff2"),
+    url("/fonts/Lato-Black.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Lato SemiBold";
+  src: url("/fonts/Lato-Semibold.woff2") format("woff2"),
+    url("/fonts/Lato-Semibold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Lato ExtraBold";
+  src: url("/fonts/Lato-Heavy.woff2") format("woff2"),
+    url("/fonts/Lato-Heavy.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Lato Medium";
+  src: url("/fonts/Lato-Medium.woff2") format("woff2"),
+    url("/fonts/Lato-Medium.woff") format("woff");
 }

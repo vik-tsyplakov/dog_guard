@@ -85,6 +85,11 @@ h6 {
   src: url();
 }
 
+@font-face {
+  font-family: "Lato Regular";
+  src: url("/fonts/Lato-Regular.woff2") format("woff2"), url("/fonts/Lato-Regular.woff") format("woff"), url("/fonts/Lato-Regular.ttf") format("ttf");
+}
+
 /*---WRAPPER--------------------------------------------------------------------------*/
 
 .wrapper {
