@@ -1,5 +1,5 @@
 {
-  "name": "new_site",
+  "name": "c",
   "version": "1.0.0",
   "description": "new_site",
   "main": "index.html",
@@ -27,5 +27,13 @@
     "gulp-ttf2woff2": "^4.0.1",
     "gulp-uglify-es": "^3.0.0",
     "sass": "latest"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vik-tsyplakov/dog_guard.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vik-tsyplakov/dog_guard/issues"
+  },
+  "homepage": "https://github.com/vik-tsyplakov/dog_guard#readme"
 }
